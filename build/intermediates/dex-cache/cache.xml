@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/pre-dexed/debug/classes-c7d54322801caaa106e075ac6bdf554d1db70c81.jar" />
+    </item>
+    <item
+        jar="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/pre-dexed/debug/classes-9b5cd93697907dad194341d921cfca7914e6b5da.jar" />
+    </item>
+    <item
+        jar="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/pre-dexed/debug/classes-7ae2e94a2fec3f1b423363e3e31730d2caa6178c.jar" />
+    </item>
+    <item
+        jar="/home/yasmine/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-4daa85cdde304e13a442187d9822d82540a1f91d.jar" />
+    </item>
+    <item
+        jar="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/yasmine/AndroidStudioProjects/Covoiturage/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-608381e5bdb59423cb326eaad2a49f4861a7a3ab.jar" />
+    </item>
+
+</items>
